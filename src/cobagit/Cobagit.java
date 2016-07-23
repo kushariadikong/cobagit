@@ -12,7 +12,7 @@ public class Cobagit extends JFrame {
     }
 
     private void initUI() {
-        setTitle("Simple example");
+        setTitle("HALO SAYA");
         setSize(800, 600);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
