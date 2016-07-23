@@ -12,8 +12,8 @@ public class Cobagit extends JFrame {
     }
 
     private void initUI() {
-        setTitle("HALO SAYA");
-        setSize(800, 600);
+        setTitle("HALO SAYA KUSHARIADI");
+        setSize(900, 600);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
